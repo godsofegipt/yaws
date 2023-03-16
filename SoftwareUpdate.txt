@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+New HUB Cloud Training docs page (#8174)
