@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add plot_images conf_thresh parameter (#8446)
