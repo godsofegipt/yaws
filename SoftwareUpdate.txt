@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+fix yolo classify model loading error (#9196)
