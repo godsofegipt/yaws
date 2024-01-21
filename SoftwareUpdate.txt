@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
