@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
